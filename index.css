@@ -89,7 +89,7 @@ button {
 }
 
 .hero-section {
-  margin-top: calc(var(--section-top-margin) + 4rem);
+  margin-top: calc(var(--section-top-margin) + 5.5rem);
   display: flex;
   width: 100%;
 }
